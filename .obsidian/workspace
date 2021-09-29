@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4f1baab2d03f47ef",
+        "id": "7fb7d3a54e394558",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20210929.md",
-            "mode": "source"
+            "file": "2021-09-29.md",
+            "mode": "preview"
           }
         }
       }
@@ -61,6 +61,7 @@
       {
         "id": "4632676aa173c8f6",
         "type": "tabs",
+        "dimension": 26.525198938992045,
         "children": [
           {
             "id": "c850df4891bd23fe",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20210929.md",
+                "file": "2021-09-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,16 +87,53 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5349d62ac002502c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18b4b90e127998a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2021-09-29.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "430598b238c03699",
+        "type": "tabs",
+        "dimension": 73.47480106100795,
+        "children": [
+          {
+            "id": "c574def1760b0197",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "4f1baab2d03f47ef",
+  "active": "7fb7d3a54e394558",
   "lastOpenFiles": [
+    "2021-09-29.md",
     "Day Planners/Day Planner-20210929.md"
   ]
 }
