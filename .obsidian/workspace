@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fb7d3a54e394558",
+        "id": "b3e1bfd064e03a4c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sources/Book Notes/Humor Seriously.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,7 +58,6 @@
       {
         "id": "4632676aa173c8f6",
         "type": "tabs",
-        "dimension": 26.525198938992045,
         "children": [
           {
             "id": "c850df4891bd23fe",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Book Notes/Humor Seriously.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,21 +99,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sources/Book Notes/Humor Seriously.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "e8f9fa737ed99b9b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
-        "id": "430598b238c03699",
+        "id": "95aed41cdf32980a",
         "type": "tabs",
-        "dimension": 73.47480106100795,
         "children": [
           {
-            "id": "c574def1760b0197",
+            "id": "f95bdd3ab0b03180",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -131,8 +131,9 @@
     "direction": "horizontal",
     "width": 281
   },
-  "active": "7fb7d3a54e394558",
+  "active": "b3e1bfd064e03a4c",
   "lastOpenFiles": [
+    "DayNotes/2021-09-29.md",
     "Sources/Book Notes/Humor Seriously.md",
     "Sources/Book Notes/Untitled.md",
     "2021-09-29.md",

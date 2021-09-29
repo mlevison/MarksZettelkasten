@@ -6,5 +6,10 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "attachments",
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "colour",
+    "hitmen",
+    "wouldn"
+  ]
 }
