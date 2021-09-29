@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b3e1bfd064e03a4c",
+        "id": "b8adc61e7b9ff383",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Technology/DevonThink.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technology/DevonThink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technology/DevonThink.md"
+              }
             }
           },
           {
@@ -111,14 +117,14 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
-        "id": "95aed41cdf32980a",
+        "id": "33b9b0b508c58d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "f95bdd3ab0b03180",
+            "id": "0ccad903a207765b",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -131,10 +137,12 @@
     "direction": "horizontal",
     "width": 281
   },
-  "active": "b3e1bfd064e03a4c",
+  "active": "b8adc61e7b9ff383",
   "lastOpenFiles": [
-    "DayNotes/2021-09-29.md",
+    "Untitled.md",
+    "Journal Entries/Untitled.md",
     "Sources/Book Notes/Humor Seriously.md",
+    "DayNotes/2021-09-29.md",
     "Sources/Book Notes/Untitled.md",
     "2021-09-29.md",
     "Day Planners/Day Planner-20210929.md"

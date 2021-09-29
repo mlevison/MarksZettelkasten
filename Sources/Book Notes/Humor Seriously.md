@@ -22,7 +22,7 @@ What can I learn as practice to create more humour in the world around me.
 
 Interesting discovery. I rely too much on things like news and politics as a source of humour.
 
-***Headers are mixed up with indendentation***
+***Headers are mixed up with indentation***
 ### The Basics: Truth and Misdirection
 Principles
 1. At the heart of humour is truth — instead of asking what is funny, start asking what is true.
