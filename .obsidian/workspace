@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-09-29.md",
-            "mode": "preview"
+            "file": "Sources/Book Notes/Humor Seriously.md",
+            "mode": "source"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6d30a2840df12399",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-09-29.md",
+                "file": "Sources/Book Notes/Humor Seriously.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-09-29.md"
+                "file": "Sources/Book Notes/Humor Seriously.md"
               }
             }
           }
@@ -130,10 +129,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "active": "7fb7d3a54e394558",
   "lastOpenFiles": [
+    "Sources/Book Notes/Humor Seriously.md",
+    "Sources/Book Notes/Untitled.md",
     "2021-09-29.md",
     "Day Planners/Day Planner-20210929.md"
   ]
