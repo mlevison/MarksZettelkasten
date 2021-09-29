@@ -12,5 +12,5 @@
   "circularProgress": true,
   "nowAndNextInStatusBar": true,
   "showTaskNotification": false,
-  "timelineZoomLevel": 2
+  "timelineZoomLevel": 1
 }
