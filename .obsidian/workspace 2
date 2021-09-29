@@ -1,0 +1,72 @@
+{
+  "main": {
+    "id": "bb29356ab7cfcdbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "16a9c8c8cf2b333e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2edd37786a73ba0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8689f5885632658f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3f9fe472f6fef9c0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cb9a67075d62995d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0efbc11ed37d6938",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "16a9c8c8cf2b333e",
+  "lastOpenFiles": []
+}
