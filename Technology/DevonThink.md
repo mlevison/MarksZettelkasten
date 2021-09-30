@@ -1,5 +1,19 @@
 searching DT via Alfred https://github.com/mpco/AlfredWorkflow-DEVONthink-Search
 
+## DT and Obsidian:
+https://forum.obsidian.md/t/devonthink-obsidian/14581/16 https://forum.obsidian.md/t/best-practise-pdf-obsidian-devonthink/11455
+
+For people who wants to know more detailed:
+
+1.  Select the annotated pdf. Then use the summarize function in the menu bar of DT via Tools -> Summarize Highlights -> as Markdown
+2.  Select the new md summarization file (in DT) and move it to the indexed Obsidian Vault folder (also in DT)
+
+Now you have the notes as a md file in DT and Obsidian. The good thing is, you have a link for each annoted note to the corresponding pdf page, so you only need to click in it in Obsidian and the specific pdf page is opened for you in DT.  
+To clarify: not only highlightings but annotation notes will be extracted too.
+
+https://axle.design/devonlink-integrate-obsidian-and-devonthink and a followon: https://forum.obsidian.md/t/devonthink-obsidian/14581/14?u=mlevison
+
+-- 
 eBook on DevonThink: https://kourosh.gumroad.com/l/Taking_Smart_Notes_With_DEVONthink
 
 https://elainegiles.co.uk/the-devonthink-3-series/
